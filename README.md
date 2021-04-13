@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atakan Senturk</h1>
-<h3 align="center">A computer engineer from Turkey, Europe</h3>
+<h3 align="center">Computer Engineer & Scientist</h3>
+<h3 align="center">Turkey, Europe</h3>
 
 <h3 align="center">You Can Connect With Me Via Below Accounts</h3>
 <p align="center">
