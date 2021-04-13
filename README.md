@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Atakan Senturk</h1>
 <h3 align="center">Computer Engineer & Scientist</h3>
 
 <p align="center">
